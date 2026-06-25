@@ -1,0 +1,7 @@
+[Coding Project]
+name = "Coding Project"
+version = "0.1.0"
+description = "Building simple and Easy project for Revison and learning the topics"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
