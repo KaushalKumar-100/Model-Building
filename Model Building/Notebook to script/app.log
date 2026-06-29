@@ -1,0 +1,10 @@
+(asctime)s - INFO - Program started
+2026-06-28 23:23:31,910 - INFO - Program started
+2026-06-28 23:27:00,617 - INFO - Program started
+2026-06-28 23:27:00,617 - DEBUG - Debugging code
+2026-06-28 23:28:15,026 - INFO - Program started
+2026-06-28 23:28:15,026 - DEBUG - Debugging code
+2026-06-28 23:28:15,027 - WARNING - This is a Warning
+2026-06-28 23:28:15,027 - ERROR - This is an error
+2026-06-28 23:55:56,501 - INFO - Loading dataset
+2026-06-28 23:55:56,544 - INFO - Dataset loaded successfully

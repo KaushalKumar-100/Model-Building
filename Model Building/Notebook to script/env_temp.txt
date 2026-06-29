@@ -1,0 +1,15 @@
+DATASET_PATH="dataset path"
+PROJECT_ROOT="project dir"
+DATASET_NAME=dataset Name
+
+#output directory
+MODEL_DIR="Model Name
+LOG_DIR=logs
+
+#files
+MODEL_NAME="Model Name.joblib"
+
+#TARGET
+TARGET_COL="target_cols"
+TEST_SIZE=test_size
+RANDOM_STATE=random_state
